@@ -1,4 +1,5 @@
-lf
- lf
-flf
-lflf
+Lf
+ да
+да
+да
+да
